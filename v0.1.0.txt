@@ -1,0 +1,9 @@
+----------------------------------------------------------------------
+NAIST Japanese Dictionary-0.1.0 (2007/12/11)
+----------------------------------------------------------------------
+- Windows Binary Edition Release
+
+
+
+
+Above information is in `NEWS` file of `naist-jdic-0.4.0`.
