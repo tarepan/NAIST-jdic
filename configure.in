@@ -1,6 +1,6 @@
 AC_INIT(connect.cha)
 AC_PREREQ(2.13)
-AM_INIT_AUTOMAKE(naist-jdic, 0.2.0)
+AM_INIT_AUTOMAKE(naist-jdic, 0.3.0)
 AM_MAINTAINER_MODE
 AC_CONFIG_HEADERS
 dnl
@@ -84,7 +84,7 @@ AC_SUBST(TEX)
 CHASEN_LEXICAL_DIC=`echo *.dic`
 AC_SUBST(CHASEN_LEXICAL_DIC)
 
-CHASEN_MANUAL_FILES="INSTALL-ja doc/NAIST-jdic-ja.pdf doc/ipadic-2.7.0-chn-utf8.pdf"
+CHASEN_MANUAL_FILES="INSTALL-ja doc/NAIST-jdic-ja.pdf"
 AC_SUBST(CHASEN_MANUAL_FILES)
 
 CHASEN_GENDATA="matrix.cha table.cha chadic.da chadic.lex chadic.dat"
