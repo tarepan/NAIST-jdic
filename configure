@@ -1906,7 +1906,7 @@ fi
 
 # Define the identity of the package.
  PACKAGE=naist-jdic
- VERSION=0.2.0
+ VERSION=0.3.0
 
 
 cat >>confdefs.h <<_ACEOF
@@ -2332,7 +2332,7 @@ fi
 CHASEN_LEXICAL_DIC=`echo *.dic`
 
 
-CHASEN_MANUAL_FILES="INSTALL-ja doc/NAIST-jdic-ja.pdf doc/ipadic-2.7.0-chn-utf8.pdf"
+CHASEN_MANUAL_FILES="INSTALL-ja doc/NAIST-jdic-ja.pdf"
 
 
 CHASEN_GENDATA="matrix.cha table.cha chadic.da chadic.lex chadic.dat"
