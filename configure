@@ -1838,7 +1838,7 @@ fi
 
 PACKAGE=mecab-naist-jdic
 
-VERSION=0.2.0-20080229
+VERSION=0.3.0-20080309
 
 if test "`cd $srcdir && pwd`" != "`pwd`" && test -f $srcdir/config.status; then
   { { echo "$as_me:$LINENO: error: source directory already configured; run \"make distclean\" there first" >&5
