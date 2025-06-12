@@ -21,30 +21,30 @@ For convenience, UTF8-nized `naist-jdic` is also prepared and is under [`naist-j
 
 Full list of versions is below (all versions have `RAW` and `UTF8`).  
 
-| `mecab-naist-jdic` | `naist-jdic` | Windows Binary Edition |
-| :----------------: | :----------: | :--------------------: |
-|  v0.6.3b-20111013  |              |                        |
-|  v0.6.3-20100801   |              |                        |
-|  v0.6.2-20100208   |              |                        |
-|  v0.6.1-20090630   |              |                        |
-|  v0.6.0-20090616   |              |                        |
-|  v0.5.0-20090512   |              |                        |
-|  v0.4.3-20080917   |              |                        |
-|  v0.4.3-20080812   |              |                        |
-|  v0.4.3-20080723   |    v0.4.3    |                        |
-|                    |    v0.4.2    |                        |
-|                    |    v0.4.1    |                        |
-|                    |    v0.4.0    |                        |
-|  v0.3.0-20080309   |    v0.3.0    |                        |
-|  v0.2.0-20080229   |    v0.2.0    |                        |
-|                    |              |         v0.1.0         |
+|                                    `mecab-naist-jdic`                                     |                              `naist-jdic`                              | Windows Binary Edition |
+| :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: | :--------------------: |
+| [v0.6.3b-20111013](https://github.com/tarepan/NAIST-jdic/tree/v0.6.3b-20111013-mecab-raw) |                                                                        |                        |
+|  [v0.6.3-20100801](https://github.com/tarepan/NAIST-jdic/tree/v0.6.3-20100801-mecab-raw)  |                                                                        |                        |
+|  [v0.6.2-20100208](https://github.com/tarepan/NAIST-jdic/tree/v0.6.2-20100208-mecab-raw)  |                                                                        |                        |
+|  [v0.6.1-20090630](https://github.com/tarepan/NAIST-jdic/tree/v0.6.1-20090630-mecab-raw)  |                                                                        |                        |
+|  [v0.6.0-20090616](https://github.com/tarepan/NAIST-jdic/tree/v0.6.0-20090616-mecab-raw)  |                                                                        |                        |
+|  [v0.5.0-20090512](https://github.com/tarepan/NAIST-jdic/tree/v0.5.0-20090512-mecab-raw)  |                                                                        |                        |
+|  [v0.4.3-20080917](https://github.com/tarepan/NAIST-jdic/tree/v0.4.3-20080917-mecab-raw)  |                                                                        |                        |
+|  [v0.4.3-20080812](https://github.com/tarepan/NAIST-jdic/tree/v0.4.3-20080812-mecab-raw)  |                                                                        |                        |
+|  [v0.4.3-20080723](https://github.com/tarepan/NAIST-jdic/tree/v0.4.3-20080723-mecab-raw)  | [v0.4.3](https://github.com/tarepan/NAIST-jdic/tree/v0.4.3-chasen-raw) |                        |
+|                                                                                           | [v0.4.2](https://github.com/tarepan/NAIST-jdic/tree/v0.4.2-chasen-raw) |                        |
+|                                                                                           | [v0.4.1](https://github.com/tarepan/NAIST-jdic/tree/v0.4.1-chasen-raw) |                        |
+|                                                                                           | [v0.4.0](https://github.com/tarepan/NAIST-jdic/tree/v0.4.0-chasen-raw) |                        |
+|  [v0.3.0-20080309](https://github.com/tarepan/NAIST-jdic/tree/v0.3.0-20080309-mecab-raw)  | [v0.3.0](https://github.com/tarepan/NAIST-jdic/tree/v0.3.0-chasen-raw) |                        |
+|  [v0.2.0-20080229](https://github.com/tarepan/NAIST-jdic/tree/v0.2.0-20080229-mecab-raw)  | [v0.2.0](https://github.com/tarepan/NAIST-jdic/tree/v0.2.0-chasen-raw) |                        |
+|                                                                                           |                                                                        |         v0.1.0         |
 
 All `RAW` versions have version tags.  
 
 Prerelease versions and ChaSen exe files exist in [Origin](#Origin), but I decided to remove them from git. If you need, check Origin.  
 
 ## Origin
-[Origin *NAIST-jdic* project page](https://ja.osdn.net/projects/naist-jdic/) seems to be lost (`503 Service Temporarily Unavailable` at 2025-06-09).  
+[Original *NAIST-jdic* project page](https://ja.osdn.net/projects/naist-jdic/) seems to be lost (`503 Service Temporarily Unavailable` at 2025-06-09).  
 All source codes are cloned from [http://iij.dl.sourceforge.jp](http://iij.dl.sourceforge.jp/naist-jdic/).  
 I'd like to express my gratitude to everyone concerned.  
 
