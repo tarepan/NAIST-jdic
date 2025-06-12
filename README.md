@@ -54,3 +54,4 @@ I'd like to express my gratitude to everyone concerned.
 3. Commit raws with tag
 4. Make UTF-8 variants with `./eucjp_to_utf8.py` and manual PDF move
 5. Commit them
+6. Make GitHub Releases with origin .tar.gz
